@@ -74,4 +74,30 @@ Hubieron 7 sujetos de prueba en total, pero desafortunadamente el maze tenía un
 
 ## Resultados
 
+En la primera sección de la prueba "Acceder a la AI" se obtuvieron los siguientes resultados:
+    83.3% Direct success
+    16.7% Mission unfinished
+    44.4% Misclick rate
+    5.3s Avg. duration
+
+Después de esto, en la evaluación del usuario en la escala del 1 al 5 de intuitividad, se obtiene una respuesta positiva con un promedio de 4.5.
+
+Posteriormente, se tiene la segunda pantalla de prueba "Sugerencias de IA" con los resultados:
+100% Direct success
+0% Mission unfinished
+52.4% Misclick rate
+10.9s Avg. duration
+
+y la prueba "Escoger lámpara":
+100% Direct success
+0% Mission unfinished
+9.1% Misclick rate
+6.8s Avg. duration
+
+Luego en la escala de satisfacción del 1 al 7, parece que se obtuvo una respuesta mayormente positiva con un 6.4 de promedio.
+
+Para finalizar, se notan algunos de los comentarios que se dejaron para ayudarnos a mejorar el sitio web:
+"Todo funciona muy bien"
+"Me pareció que la IA podría en vez de solamente shuffle de manera superficial, podría shuffle los prodcutos en términos de color y/o estilo. "
+
 ## Correcciones
