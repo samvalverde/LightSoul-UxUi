@@ -39,6 +39,30 @@ Estas pantallas son las encargadas de representar la opción "Escoger Lámpara" 
   
 ## Test de Usabilidad
 
+Para el test de usabilidad, se implementó la herramienta Maze. Esta herramienta permite que diferentes personas prueben el prototipo de Figma para realizar pruebas de usabilidad, estudios de experiencia del usuario, y recopilar datos cuantitativos y cualitativos de forma rápida y eficiente. Maze funciona por medio de "Bloques", en el caso de este prototipo, se utilizaron 7 bloques. 
+
+#### Bloque #1 
+Este bloque se encarga de dar una pequeña explicación sobre lo que trata el test de usabilidad.
+
+#### Bloque #2 
+En este bloque se tiene la primera misión. Esta misión le solicita a los participantes acceder a la asistencia con IA desde la pantalla #1.
+
+#### Bloque #3 
+El bloque #3 realiza la primera encuesta del test de usabilidad. Aquí se le pregunta a los participantes, ¿Qué tan intuitivo considera que es acceder a la asistencia con IA? Donde pueden contestar por medio de una escala númerica del 1-5.
+
+#### Bloque #4
+Aquí se continua con la segunda misión de los participantes. En esta se le solicita a los participantes acceder a la opción "Sugerencias de IA" de la pantalla #2. Además, les explica el contesto en el que se encuentran dentro del prototipo.
+
+#### Bloque #5
+En este bloque se asigna la tercera y última misión de los participantes. Aquí se le solicita a los participantes acceder a la opción "Escoger Lámpara" de la pantalla #2. Además, les explica el contesto en el que se encuentran dentro del prototipo.
+
+#### Bloque #6
+En este bloque se les pregunta a los participantes sobre su experiencia utilizando la asistencia con IA, donde pueden contestar utilizando una escala de emociones del 1-7.
+
+#### Bloque #7
+En este último bloque se les pregunta a los participantes si consideran que se deba implementar algo diferente a lo demostrado en el prototipo. Esto lo pueden contestar por medio de un simple input.
+
+
 ## Sujetos de Prueba
 
 Hubieron 7 sujetos de prueba en total, pero desafortunadamente el maze tenía unos errores y 3 de las pruebas se realizaron antes de corregirlos, por lo que no se pudieron tomar en cuenta. Estos son los sujetos que hicieron la prueba en el maze correcto:
