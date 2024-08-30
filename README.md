@@ -101,3 +101,31 @@ Para finalizar, se notan algunos de los comentarios que se dejaron para ayudarno
 "Me pareció que la IA podría en vez de solamente shuffle de manera superficial, podría shuffle los prodcutos en términos de color y/o estilo. "
 
 ## Correcciones
+
+### 1. Mejora en el Diseño Visual
+
+**Comentarios Recibidos:**  
+Aunque el prototipo actual ha recibido un feedback positivo, el diseño visual en general tiene áreas significativas que podrían mejorarse, especialmente en cuanto a la paleta de colores, el uso de imágenes e íconos, y las fuentes utilizadas.
+
+**Acciones Propuestas:**
+- **Revisar la paleta de colores:** La combinación de colores actual puede beneficiarse de una revisión para asegurar que sea visualmente atractiva y coherente con la marca. Se sugiere considerar un esquema de colores más moderno y estilizado que refleje la naturaleza tecnológica y avanzada de la funcionalidad de IA.
+- **Mejorar el uso de imágenes e íconos:** Los íconos y las imágenes deben ser más representativos y llamativos. Se recomienda utilizar íconos que sean más intuitivos y visualmente atractivos, así como imágenes de mayor calidad que refuercen la estética del producto.
+- **Optimización de tipografías:** Las fuentes de letra actuales podrían beneficiarse de un ajuste que incluya una tipografía más moderna y que sea fácil de leer en diferentes tamaños de pantalla.
+
+### 2. Refinamiento de la Interacción del Usuario
+
+**Comentarios Recibidos:**  
+Los usuarios indicaron que la experiencia de utilizar la asistencia con IA fue en general positiva. Sin embargo, algunos comentarios sugirieron que la funcionalidad de "shuffle" podría beneficiarse de una mayor personalización en términos de color y estilo.
+
+**Acciones Propuestas:**
+- **Mejora en la funcionalidad de shuffle:** Implementar una opción avanzada de "shuffle" que permita a la IA no solo cambiar los productos de manera superficial, sino también considerar variaciones en términos de color, estilo y material para ofrecer una experiencia más personalizada y adaptada a las preferencias del usuario.
+- **Refinar la experiencia de interacción:** Se recomienda optimizar los flujos de interacción, como la selección y comparación de escenas, para hacerlos más fluidos e intuitivos, asegurando que el usuario pueda navegar entre opciones de manera más eficiente.
+
+### 3. Evaluación de la Asistencia con IA
+
+**Comentarios Recibidos:**  
+Los usuarios calificaron la intuición y la facilidad de acceso a la asistencia con IA con puntajes sólidos, pero hay margen para mejorar la claridad y accesibilidad.
+
+**Acciones Propuestas:**
+- **Clarificación del acceso a la IA:** Asegurar que los botones y opciones relacionados con la asistencia de IA estén claramente definidos y visibles para el usuario. Puede ser útil añadir descripciones breves o tooltips que orienten mejor a los usuarios sobre cómo usar la asistencia de IA.
+- **Optimización del proceso de ayuda:** Revisar el flujo desde la selección de la imagen hasta la obtención de sugerencias de IA para asegurarse de que cada paso esté bien explicado y sea intuitivo, minimizando cualquier posible confusión durante el uso.
